@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyAZRK3jZYbd-mHRGA6xMM4zy2SMCqWC-u8',
-    appId: '1:654859617534:web:e1c105498a0e9a0925d1af',
+    appId: '1:654859617534:web:3a722e7d997bc58b25d1af',
     messagingSenderId: '654859617534',
     projectId: 'ts-mobile-test',
     authDomain: 'ts-mobile-test.firebaseapp.com',

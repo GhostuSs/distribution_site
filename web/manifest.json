@@ -1,6 +1,6 @@
 {
-    "name": "ticket_admin",
-    "short_name": "ticket_admin",
+    "name": "app_distribution_website",
+    "short_name": "app_distribution_website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,10 +1,11 @@
 import 'package:animate_gradient/animate_gradient.dart';
-import 'package:app_distribution_website/ui/web/uikit/fluid_button.dart';
+import 'package:app_distribution_website/ui/web_page/uikit/fluid_button.dart';
 import 'package:app_distribution_website/utils/apptypography.dart';
 import 'package:app_distribution_website/utils/color.dart';
 import 'package:app_distribution_website/utils/links.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+
 
 class WebPage extends StatelessWidget {
   const WebPage({
@@ -52,7 +53,6 @@ class WebPage extends StatelessWidget {
               SizedBox(
                 height: 32.h,
               ),
-              // LinkButton(label: '1', link: 'test'),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 30.w,),
                 child: Row(

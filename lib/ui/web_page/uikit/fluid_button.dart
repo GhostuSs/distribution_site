@@ -215,15 +215,15 @@ class _FluidButtonState extends State<FluidButton>
             ),
             child: Center(
               child: widget.isIos
-                  ? Icon(
+                  ? const Icon(
                       Icons.apple,
                       color: AppColors.white,
-                      size: 70.w,
+                      size: 70,
                     )
-                  : Icon(
+                  : const Icon(
                       Icons.android,
                       color: AppColors.white,
-                      size: 70.w,
+                      size: 70,
                     ),
             ),
           ),
