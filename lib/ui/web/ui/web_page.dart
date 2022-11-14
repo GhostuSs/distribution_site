@@ -14,11 +14,11 @@ class WebPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return AnimateGradient(
-      primaryColors: [
+      primaryColors: const [
         AppColors.black,
         AppColors.blue,
       ],
-      secondaryColors: [
+      secondaryColors: const [
         AppColors.blue,
         AppColors.black
       ],
